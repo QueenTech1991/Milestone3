@@ -9,10 +9,10 @@
 <nav>
     <div class="wrapper">
         <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="aboutksu.html">About KSU</a></li>
-            <li><a href="admissions.html">Admissions</a></li>
-            <li><a href="Student Status.html">Student Status</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="aboutksu.php">About KSU</a></li>
+            <li><a href="admissions.php">Admissions</a></li>
+            <li><a href="Student Status.php">Student Status</a></li>
         </ul>
     </div>
 </nav>
