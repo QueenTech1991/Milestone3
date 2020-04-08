@@ -5,6 +5,7 @@
 			<title> Kennesaw State University </title>
 			<link rel="stylesheet" href="style.css">
 	</head>
+	
 	<body>
 		<nav>
 			<div class="wrapper">
